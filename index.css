@@ -1,0 +1,13 @@
+
+.botao-produtos {
+background-color: #6f42c1;
+border-color: #6f42c1;
+color: white;
+}
+
+
+.botao-produtos:hover {
+background-color: #59359a;
+border-color: #59359a;
+color: white;
+}
